@@ -1,0 +1,12 @@
+html{
+    color: rgb(59, 59, 59);
+    box-sizing: border-box;;
+}
+body{
+    background-color: #e9b282;
+}
+h1{
+    color:#fff;
+    text-shadow: 2px 1px 2px rgba(0, 0, 0, 0.466);
+    text-align: center;
+}
